@@ -80,10 +80,6 @@ Graph_nodes = {
 aStarAlgo('A', 'G')
 
 
-
-
-
-
 O|P
 
 Path found: ['A', 'E', 'D', 'G']
